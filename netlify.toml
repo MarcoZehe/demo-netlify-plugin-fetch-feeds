@@ -17,5 +17,5 @@
       ttl = 120   # Cache for 2 minutes
     [[plugins.inputs.feeds]]
       name = "wirSabbeln"
-      url = "https://www.wir-sabbeln.de/feed/index.xml"
+      url = "https://www.wir-sabbeln.de/feed/"
       ttl = 86400   # Cache for 24 hours
